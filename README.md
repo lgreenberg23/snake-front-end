@@ -19,6 +19,6 @@ The game is over when the snake dies,either by running ito itself or the borders
 
 ## Languages & tools
 JavaScript
-  - JQuery
+  - jQuery
 
 HTML & CSS
